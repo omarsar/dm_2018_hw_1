@@ -4,7 +4,7 @@ This repository contains all the information for the first assignment of the Dat
 **Important Notice:** This is an **individual assignment**, therefore, each student is asked to complete the assignment on their own, following the **Course Academic Integrity Policy** presented in the first session. (Please refer to the orientation handout in the iLMS to learn more about the policy).
 
 **Due Date:** 
-The assignment is due on October 22, 2018 (midnight). No extensions will be given for this assignment. Failure to submit the assignment on time will result in an automatic score of zero (0). 
+The assignment is due on October 29, 2018 (midnight). No extensions will be given for this assignment. Failure to submit the assignment on time will result in an automatic score of zero (0). 
 
 ---
 ### Instructions
@@ -17,11 +17,5 @@ Please carefully review the following instructions to complete Assignment 1. The
 3. Once you have finished all the tasks in the given notebook, and you are ready to make the final submission, you should change the name of your notebook (`hw_1.ipynb`) to this format (`StudentName_StudentID.ipynb`), and then publish changes to your GitHub forked repository. You can make as much changes to your repository as necessary, since we will check assignments until due date. After due date, you are not allowed to make any more changes to your respositories.
 
 ---
-### Grading
-The following is the grading format for your first assignment.
-- 60% - Complete all the tasks given in the provided Jupyter notebook [hw_1.ipynb](https://github.com/omarsar/dm_2018_hw_1/blob/master/hw_1.ipynb).
-- 30% - Complete the **take home exercises** provided in the [first lab session](https://github.com/omarsar/data_mining_lab/blob/master/news_data_mining.ipynb). Please note that we have updated the notebook.
-- 10% - Creativity and Presentation: For instance, you can present different visualizations and data operations provided in the **Data** handout (Session 1 of Data Mining). (Refer to the iLMS for the handout on **Data**). You can also tidy up your notebook and provide nice explanations or comments where necessary, especially for the new parts you have added. Surprise us! Good Luck!
-
-Questions? Please email TAs or contact us directly on Slack. 
+**Questions? Please email TAs or contact us directly on Slack. Don't wait until last minute to ask us about the assignment.**
 
